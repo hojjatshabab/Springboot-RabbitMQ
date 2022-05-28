@@ -1,3 +1,4 @@
+/*
 package com.mq;
 
 import lombok.RequiredArgsConstructor;
@@ -24,3 +25,4 @@ public class MessagePublisher {
         return "Message Publisher.";
     }
 }
+*/

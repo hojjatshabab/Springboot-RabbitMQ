@@ -1,3 +1,4 @@
+/*
 package com.mq;
 
 import lombok.AllArgsConstructor;
@@ -15,3 +16,4 @@ public class CustomMessage {
     private String message;
     private Date messageDate;
 }
+*/
